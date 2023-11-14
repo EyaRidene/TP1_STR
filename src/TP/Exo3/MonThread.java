@@ -1,4 +1,4 @@
-package Exo3_TD;
+package TP.Exo3;
 
 class MonThread extends Thread {
     public void run () {

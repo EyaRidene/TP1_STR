@@ -1,4 +1,4 @@
-package Exo5_TD;
+package TP.Exo5;
 class Solde {
     private int solde = 0;
     public Solde (int x) { this.solde = x; }
