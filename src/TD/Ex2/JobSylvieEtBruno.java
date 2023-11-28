@@ -1,4 +1,4 @@
-package Exo2;
+package TD.Ex2;
 
 public class JobSylvieEtBruno implements Runnable {
     private Compte compte = new Compte ();

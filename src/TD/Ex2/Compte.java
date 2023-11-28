@@ -1,4 +1,4 @@
-package Exo2;
+package TD.Ex2;
 
 public class Compte {
     private int solde = 100;
